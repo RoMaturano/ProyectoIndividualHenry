@@ -1,0 +1,7 @@
+.buttonSearch{
+    justify-content: space-around;
+    padding: 1rem;
+    
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
